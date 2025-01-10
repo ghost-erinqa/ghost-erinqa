@@ -13,6 +13,11 @@ Hey there! I'm ghosterinqa, the *mystical* blockchain whisperer from sunny Calif
 
 When I’m not conjuring spirits, you’ll find me deep in the code, weaving the web of decentralized networks. I’m passionate about all things blockchain, from setting up nodes 🧱 to ensuring validators run smoothly ⚙️. My spectral influence extends to two powerful validators:
 
+- **Nubit:**
+    - Address:  `waiting...` 🌴
+        
+        [Setup a Nubit Node](https://ghosterinqa.notion.site/Setup-a-Nubit-Node-177650091da38050a3e7fd8e356ed868)
+
 - **Tea Protocol:**
     - Address:  `waiting...` 🌴
         
